@@ -3,5 +3,5 @@ def login(username, password):
 
 print('Time to get hacking')
 username = 'Andrew.Cox@Charter.com'
-password = 'Spectrum!qwerty123'
+password = 'NewSpectrumPa$$word'
 login(username, password)
